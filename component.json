@@ -1,0 +1,15 @@
+{
+  "name": "visit-nodes",
+  "repo": "yields/visit-nodes",
+  "description": "Visit all nodes under the given node.",
+  "keywords": ["visit", "walk", "node", "nodes", "tree-walker"],
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "development": {
+    "component/assert": "*",
+    "component/domify": "*",
+    "visionmedia/mocha": "*"
+  }
+}
