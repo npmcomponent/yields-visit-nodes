@@ -15,6 +15,10 @@
 visit(node, function(node, next){});
 ```
 
+## TreeWalker
+
+TreeWalker is slower than this implementation for some reason (at least on my machine).
+
 ## License
 
   MIT
