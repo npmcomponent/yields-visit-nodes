@@ -19,6 +19,12 @@ visit(node, function(node, next){});
 
 TreeWalker is slower than this implementation for some reason (at least on my machine).
 
+## Tests
+
+```bash
+$ make test
+```
+
 ## License
 
   MIT
