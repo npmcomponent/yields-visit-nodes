@@ -1,0 +1,15 @@
+{
+  "name": "yields-visit-nodes",
+  "description": "Visit all nodes under the given node.",
+  "version": "0.0.1",
+  "keywords": [
+    "visit",
+    "walk",
+    "node",
+    "nodes",
+    "tree-walker"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
